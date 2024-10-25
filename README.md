@@ -12,4 +12,4 @@ ScienceQtech requires a well-structured database to manage employee details, tra
 + Execute SQL queries to retrieve and analyze key employee data.
 + Solve targeted queries related to employee performance, ratings, and organizational standards.
 
-[ER diagram and screenshots]()
+[ER diagram and screenshots](https://github.com/Aastharai821/ScienceQtech-Employee-Performance-Mapping/blob/main/Screenshots/screenshots.md)
